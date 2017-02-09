@@ -1,5 +1,7 @@
 # scrollRuler
 
+![Image text](https://github.com/clarkIsMe/image/blob/master/rulerScrollDemo.gif)
+
 #### 1、下载Demo到本地 
 #### 2、把`scrollRuler`导入到工程中
 ## 在工程中的使用方法
